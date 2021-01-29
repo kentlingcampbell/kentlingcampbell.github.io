@@ -1,18 +1,18 @@
-## Portfolio... Who am I?
+## Portfolio...
 
 ---
 
 ### Experience
 
-[Resume](/sample_page)
+[Analytics](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 1 Title](/sample_page)
+[GeoScience](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Resume](/pdf/Campbell_Resume.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
