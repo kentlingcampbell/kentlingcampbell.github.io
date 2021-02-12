@@ -1,3 +1,6 @@
+# Sample of a brief foray into IBM Watson Studio
+
+
 ## Notebook 1 -- What Is the Top Complaint Type?
 
 Problem Statement:  Which type of complaint should the Department of Housing Preservation and Development of New York City focus on first?
