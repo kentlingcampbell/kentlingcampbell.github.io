@@ -13,7 +13,7 @@
 
 ---
 [Resume](/pdf/Campbell_Resume.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/blur_resume.png?raw=true"/>
 
 ---
 [MISC Projects](http://example.com/)
