@@ -5,11 +5,11 @@
 ### Experience
 
 [Analytics](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/blur_pycharm.png?raw=true"/>
 
 ---
 [GeoScience](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/blur_opendtect.png?raw=true"/>
 
 ---
 [Resume](/pdf/Campbell_Resume.pdf)
