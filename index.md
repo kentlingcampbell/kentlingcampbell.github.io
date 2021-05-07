@@ -17,7 +17,7 @@
 
 ---
 [Volunteer Treasurer at Denver Geophysical Society](https://denvergeo.org)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/logo-geophysical-2.png?raw=true"/>
 
 ---
 
