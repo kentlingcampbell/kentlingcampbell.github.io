@@ -1,4 +1,4 @@
-## Portfolio...
+## Select work that I can share 
 
 ---
 
@@ -16,7 +16,7 @@
 <img src="images/blur_resume.png?raw=true"/>
 
 ---
-[MISC Projects](http://example.com/)
+[Volunteer Treasurer at Denver Geophysical Society](https://denvergeo.org)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
