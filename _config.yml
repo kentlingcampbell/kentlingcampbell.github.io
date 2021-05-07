@@ -10,7 +10,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   Non-Profit Treasurer
   <br><br>
   <a href="https://www.linkedin.com/in/jameskentlingcampbell/">LinkedIn Profile</a>
-  <br><br>
-  <a href="https://kentling.com">HomePage</a>
+  <br>
+  <a href="http://www.kentling.com">HomePage</a>
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
