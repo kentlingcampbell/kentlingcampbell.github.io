@@ -1,17 +1,17 @@
-## Selected works, some of which are in progress from school/interesting projects I'm going to keep working on` 
+## Selected works, some of which are in progress from school/interesting projects I'm going to keep working on so it is a mess until I can clean things up 
 
 ---
 
 ### Experience
 
-[Analytics - SherLock - in progresss Python -> PySpark](/SherLock_local_PythonEDA)
+[Analytics - SherLock - in progress Python -> PySpark](/SherLock_local_PythonEDA)
 <img src="images/blur_pycharm.png?raw=true"/>
 
 ---
 [Analytics - Water Rights - in progress SQl-GIS]
 
 ---
-[GeoScience](https://www.dgbes.com)
+[GeoScience - in progress](https://www.dgbes.com)
 <img src="images/blur_opendtect.png?raw=true"/>
 
 ---
@@ -26,8 +26,9 @@
 
 ### Other Projects and Items
 
-- [Project Time Series Analyis forecasting 'customer' volume with Facebook Prophet](https://github.com/kentlingcampbell/Customer_timeseries_FBP/blob/main/JupyterNotebook.ipynb)
+- [Project Time Series Analyis forecasting customer volume with Facebook Prophet](https://github.com/kentlingcampbell/Customer_timeseries_FBP/blob/main/JupyterNotebook.ipynb)
 - [Project Supply Chain inventory lead time modeling with Neural Net](https://github.com/kentlingcampbell/NN_for_lead_time/blob/main/Final_KerasNN-Final.ipynb)
+- [Project Spam detection with in R with XGBoost](https://github.com/kentlingcampbell/R_spamData/blob/main/Spam.nb.html)
 - [Coursera Certification for Machine Learning](https://www.coursera.org/account/accomplishments/certificate/JJGQXT7VFJWS)
 - [Misc Geoscience Certification](https://github.com/kentlingcampbell/keyDocuments/blob/main/Statement_UncResGeomech.pdf)
 - [Datacamp Certification for Data Scientist](https://www.datacamp.com/statement-of-accomplishment/track/bd1dc7ac7acad760e61da08a48170fa0e96ea814)
