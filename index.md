@@ -1,4 +1,4 @@
-## Select work that I can share 
+## Selected works, some of which are in progress from school/interesting projects I'm going to keep working on` 
 
 ---
 
@@ -8,7 +8,7 @@
 <img src="images/blur_pycharm.png?raw=true"/>
 
 ---
-[GeoScience](/sample_page)
+[GeoScience](https://www.dgbes.com)
 <img src="images/blur_opendtect.png?raw=true"/>
 
 ---
