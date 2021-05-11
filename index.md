@@ -26,9 +26,9 @@
 
 ### Other Projects and Items
 
-- [Project Time Series Analyis forecasting customer volume with Facebook Prophet](https://github.com/kentlingcampbell/Customer_timeseries_FBP/blob/main/JupyterNotebook.ipynb)
-- [Project Supply Chain inventory lead time modeling with Neural Net](https://github.com/kentlingcampbell/NN_for_lead_time/blob/main/Final_KerasNN-Final.ipynb)
-- [Project Spam detection in R with XGBoost](https://github.com/kentlingcampbell/R_spamData/blob/main/Spam.nb.html)
+- [Time Series Analyis forecasting customer volume with Facebook Prophet](https://github.com/kentlingcampbell/Customer_timeseries_FBP/blob/main/JupyterNotebook.ipynb)
+- [Supply Chain inventory lead time modeling with Neural Net](https://github.com/kentlingcampbell/NN_for_lead_time/blob/main/Final_KerasNN-Final.ipynb)
+- [Spam detection in R with XGBoost](https://github.com/kentlingcampbell/R_spamData/blob/main/Spam.nb.html)
 - [Coursera Certification for Machine Learning](https://www.coursera.org/account/accomplishments/certificate/JJGQXT7VFJWS)
 - [Misc Geoscience Certification](https://github.com/kentlingcampbell/keyDocuments/blob/main/Statement_UncResGeomech.pdf)
 - [Datacamp Certification for Data Scientist](https://www.datacamp.com/statement-of-accomplishment/track/bd1dc7ac7acad760e61da08a48170fa0e96ea814)
@@ -40,5 +40,3 @@
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
