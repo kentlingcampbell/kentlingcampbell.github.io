@@ -1,7 +1,6 @@
 ## Selected works, some of which are in progress from school/interesting projects I'm going to keep working on so it is a mess until I can clean things up 
 
 ---
-
 ### Experience
 
 [Analytics - SherLock - in progress Python -> PySpark](/SherLock_local_PythonEDA)
@@ -19,11 +18,10 @@
 <img src="images/blur_resume.png?raw=true"/>
 
 ---
-[Volunteer Treasurer at Denver Geophysical Society](https://denvergeo.org)
+[Treasurer at Denver Geophysical Society](https://denvergeo.org)
 <img src="images/logo-geophysical-2.png?raw=true"/>
 
 ---
-
 ### Other Projects and Items
 
 - [Time Series Analyis forecasting customer volume with Facebook Prophet](https://github.com/kentlingcampbell/Customer_timeseries_FBP/blob/main/JupyterNotebook.ipynb)
@@ -33,10 +31,5 @@
 - [Misc Geoscience Certification](https://github.com/kentlingcampbell/keyDocuments/blob/main/Statement_UncResGeomech.pdf)
 - [Datacamp Certification for Data Scientist](https://www.datacamp.com/statement-of-accomplishment/track/bd1dc7ac7acad760e61da08a48170fa0e96ea814)
 - [Datacamp Certification for Data Analyist](https://www.datacamp.com/statement-of-accomplishment/track/2f6c81bb2d99a81a1d128b11c590c3db68f5042c)
-
----
-
-
-
 
 ---
