@@ -25,9 +25,9 @@
 
 - [Project Time Series Analyis forecasting 'customer' volume with Facebook Prophet](https://github.com/kentlingcampbell/Customer_timeseries_FBP/blob/main/JupyterNotebook.ipynb)
 - [Project Supply Chain inventory lead time modeling with Neural Net](https://github.com/kentlingcampbell/NN_for_lead_time/blob/main/Final_KerasNN-Final.ipynb)
-- [Misc Certifications](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title ](http://example.com/)
+- [Misc Geoscience Certifications](https://github.com/kentlingcampbell/keyDocuments/blob/main/Statement_UncResGeomech.pdf)
+- [Datacamp Certification for Data Scientist](https://www.datacamp.com/statement-of-accomplishment/track/bd1dc7ac7acad760e61da08a48170fa0e96ea814)
+- [Datacamp Certification for Data Analyist](https://www.datacamp.com/statement-of-accomplishment/track/2f6c81bb2d99a81a1d128b11c590c3db68f5042c)
 
 ---
 
