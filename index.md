@@ -12,7 +12,7 @@
 <img src="images/blur_opendtect.png?raw=true"/>
 
 ---
-[Resume](/pdf/Campbell_Resume.pdf)
+[Resume](/pdf/JKC_MSBA2021.pdf)
 <img src="images/blur_resume.png?raw=true"/>
 
 ---
