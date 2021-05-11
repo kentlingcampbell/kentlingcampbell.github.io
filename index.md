@@ -21,13 +21,13 @@
 
 ---
 
-### Category Name 2... Projects
+### Other Projects and Items
 
-- [Project 1 Title... education](http://example.com/)
-- [Project 2 Title... certs](http://example.com/)
-- [Project 3 Title... volunteer/DGS](http://example.com/)
+- [Project Time Series Analyis forecasting 'customer' volume with Facebook Prophet](https://github.com/kentlingcampbell/Customer_timeseries_FBP/blob/main/JupyterNotebook.ipynb)
+- [Project Supply Chain inventory lead time modeling with Neural Net](https://github.com/kentlingcampbell/NN_for_lead_time/blob/main/Final_KerasNN-Final.ipynb)
+- [Misc Certifications](http://example.com/)
 - [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Project 5 Title ](http://example.com/)
 
 ---
 
